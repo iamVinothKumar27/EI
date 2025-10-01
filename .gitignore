@@ -1,0 +1,15 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-specific junk
+.DS_Store
+
+# Ignore build directories
+/bin/
+/out/
+/target/
