@@ -7,7 +7,7 @@
 .vscode/
 
 # Ignore OS-specific junk
-.DS_Store
+*.DS_Store
 
 # Ignore build directories
 /bin/
